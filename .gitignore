@@ -1,0 +1,12 @@
+/Cargo*
+target
+*.dll
+*.exe
+*.pdb
+*.so
+*.dylib
+/drakon-*
+*cache*
+/*drakon*
+!drakon*pcb
+!drakon*sch
